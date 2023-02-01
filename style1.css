@@ -1,0 +1,12 @@
+.contenair>.item{
+    width: 150px;
+    height: 150px;
+    color: red;
+    background: gray;
+    border: 3px solid black;
+    flex-direction:unset;
+    
+
+    margin: 20px;
+    align-items:baseline;
+}
